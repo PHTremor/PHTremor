@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @PHTremor
 - 👀 I’m interested in cross platform development
 - 🌱 I’m currently learning Flutter and Golang
-- 💞️ I’m looking to collaborate on nanything long as I'm learning
+- 💞️ I’m looking to collaborate on anything long as I'm learning
 - 📫 How to reach me: mwalefrankmwale@gmail.com
 
 <!---
